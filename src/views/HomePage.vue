@@ -34,20 +34,6 @@ import { RouterLink } from 'vue-router';
         <span class="jeb-home--heroOnAirDot"></span>
         ON AIR
       </div>
-      <!-- Character art flanking the hero -->
-      <img
-        class="jeb-home--charLeft"
-        src="../assets/max.png"
-        alt="Max"
-        aria-hidden="true"
-      />
-      <img
-        class="jeb-home--charRight"
-        src="../assets/heyword.png"
-        alt="Heyword the Hippo"
-        aria-hidden="true"
-      />
-
       <div class="jeb-home--heroContent">
         <h1 class="jeb-home--heroTitle">Where cartoons come to life!</h1>
         <p class="jeb-home--heroSub">The adventure-comedy series for middle-grade readers who love to laugh, cheer, and stay up past bedtime.</p>
@@ -588,39 +574,4 @@ import { RouterLink } from 'vue-router';
 /* Book 2 card: 3D cover has its own shading, so no extra frame */
 .jeb-home--bookCard img.jeb-home--bookImg3d { box-shadow: none; border-radius: 0; filter: drop-shadow(0 4px 10px rgba(0,0,0,.2)); }
 
-/* ── Character art flanking hero ── */
-.jeb-home--charLeft,
-.jeb-home--charRight {
-  position: absolute;
-  bottom: 0;
-  width: clamp(220px, 24vw, 420px);
-  height: auto;
-  object-fit: contain;
-  object-position: bottom;
-  pointer-events: none;
-  z-index: 2;
-}
-
-/* Max — left edge, partially cut off, fades from left */
-.jeb-home--charLeft {
-  left: -4%;
-  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 22%, #000 100%);
-  mask-image: linear-gradient(to right, transparent 0%, #000 22%, #000 100%);
-}
-
-/* Heyword — right edge, mirrored to face left, partially cut off, fades from right */
-.jeb-home--charRight {
-  right: -4%;
-  transform: scaleX(-1);
-  -webkit-mask-image: linear-gradient(to left, transparent 0%, #000 22%, #000 100%);
-  mask-image: linear-gradient(to left, transparent 0%, #000 22%, #000 100%);
-}
-
-/* Hide character art on small screens where content needs full width */
-@media screen and (max-width: 700px) {
-  .jeb-home--charLeft,
-  .jeb-home--charRight {
-    display: none;
-  }
-}
 </style>
