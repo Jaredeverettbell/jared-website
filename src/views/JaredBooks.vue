@@ -28,7 +28,7 @@
           <p class="jeb-books--meta">Grades 3–7 · Ages 8–12 · Adventure / Comedy</p>
           <div class="jeb-books--btns">
             <a href="https://a.co/d/1ic4m4e" target="_blank" rel="noopener noreferrer" class="jeb-btn-dark">Buy on Amazon</a>
-            <a href="https://forms.gle/AAYVqYKsYaa32Z2J7" target="_blank" rel="noopener noreferrer" class="jeb-btn-primary">Buy a Signed Copy</a>
+            <RouterLink to="/store" class="jeb-btn-primary">Buy a Signed Copy</RouterLink>
           </div>
         </div>
       </article>
@@ -48,7 +48,7 @@
           <p class="jeb-books--meta">Grades 3–7 · Ages 8–12 · Adventure / Comedy</p>
           <div class="jeb-books--btns">
             <a href="https://www.amazon.com/Saturday-Morning-Horrors-Heyword-Hippo/dp/B0F914D3RK/" target="_blank" rel="noopener noreferrer" class="jeb-btn-dark">Buy on Amazon</a>
-            <a href="https://forms.gle/AAYVqYKsYaa32Z2J7" target="_blank" rel="noopener noreferrer" class="jeb-btn-primary">Buy a Signed Copy</a>
+            <RouterLink to="/store" class="jeb-btn-primary">Buy a Signed Copy</RouterLink>
           </div>
         </div>
       </article>
