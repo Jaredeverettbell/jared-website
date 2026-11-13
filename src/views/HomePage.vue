@@ -94,7 +94,7 @@ import { RouterLink } from 'vue-router';
             <p>Max Santel's mom smashes the TV — and seven cartoon characters escape into the real world. It's up to one 9-year-old Saturday Morning fanatic to save the day!</p>
             <div class="jeb-home--bookBtns">
               <a href="https://a.co/d/1ic4m4e" target="_blank" rel="noopener noreferrer" class="jeb-btn-dark">Buy on Amazon</a>
-              <a href="https://forms.gle/AAYVqYKsYaa32Z2J7" target="_blank" rel="noopener noreferrer" class="jeb-btn-primary">Signed Copy</a>
+              <RouterLink to="/store" class="jeb-btn-primary">Signed Copy</RouterLink>
             </div>
           </div>
         </div>
@@ -108,7 +108,7 @@ import { RouterLink } from 'vue-router';
             <p>The Saturday Morning crew is back — and this time a terrifying cartoon hippo is on the loose. Can Max and his friends survive the horrors of Heyword?</p>
             <div class="jeb-home--bookBtns">
               <a href="https://www.amazon.com/Saturday-Morning-Horrors-Heyword-Hippo/dp/B0F914D3RK/" target="_blank" rel="noopener noreferrer" class="jeb-btn-dark">Buy on Amazon</a>
-              <a href="https://forms.gle/AAYVqYKsYaa32Z2J7" target="_blank" rel="noopener noreferrer" class="jeb-btn-primary">Signed Copy</a>
+              <RouterLink to="/store" class="jeb-btn-primary">Signed Copy</RouterLink>
             </div>
           </div>
         </div>

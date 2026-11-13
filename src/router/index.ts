@@ -40,6 +40,11 @@ const router = createRouter({
       component: () => import('../views/AboutExtras.vue'),
     },
     {
+      path: '/store',
+      name: 'store',
+      component: () => import('../views/StoreView.vue'),
+    },
+    {
       path: '/parents',
       redirect: '/schoolvisits',
     },
