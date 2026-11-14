@@ -36,7 +36,7 @@ import { RouterLink } from 'vue-router';
       </div>
       <div class="jeb-home--heroContent">
         <h1 class="jeb-home--heroTitle">Where cartoons come to life!</h1>
-        <p class="jeb-home--heroSub">The adventure-comedy series for middle-grade readers who love to laugh, cheer, and stay up past bedtime.</p>
+        <p class="jeb-home--heroSub">The adventure-comedy book series for middle-grade readers who love laughter, cartoons, and an action-packed read.</p>
         <div class="jeb-home--heroCtas">
           <RouterLink to="/books" class="jeb-btn-primary">Explore the Books</RouterLink>
           <RouterLink to="/schoolvisits" class="jeb-btn-secondary">Book a School Visit</RouterLink>
@@ -91,7 +91,7 @@ import { RouterLink } from 'vue-router';
           <img src="../assets/musculor-3d-cover.webp" class="jeb-home--bookImg3d" alt="Mayhem of Musculor cover" />
           <div class="jeb-home--bookInfo">
             <h3>Book 1: Mayhem of Musculor</h3>
-            <p>Max Santel's mom smashes the TV — and seven cartoon characters escape into the real world. It's up to one 9-year-old Saturday Morning fanatic to save the day!</p>
+            <p>Max Santel, a cartoon fanatic, watches his mom smash the family TV, causing seven cartoons to escape into the town. It's up to him to become the hero and save the day.</p>
             <div class="jeb-home--bookBtns">
               <a href="https://a.co/d/1ic4m4e" target="_blank" rel="noopener noreferrer" class="jeb-btn-dark">Buy on Amazon</a>
               <RouterLink to="/store" class="jeb-btn-primary">Signed Copy</RouterLink>
@@ -105,7 +105,7 @@ import { RouterLink } from 'vue-router';
           <img src="../assets/heyword-3d-cover.webp" class="jeb-home--bookImg3d" alt="Horrors of Heyword the Hippo cover" />
           <div class="jeb-home--bookInfo">
             <h3>Book 2: Horrors of Heyword the Hippo</h3>
-            <p>The Saturday Morning crew is back — and this time a terrifying cartoon hippo is on the loose. Can Max and his friends survive the horrors of Heyword?</p>
+            <p>What's scarier than a chaotic toddler show mascot named Heyword the Hippo trying to destroy Max's brother? The Santel's would say nothing! Can Max and Roartag survive these horrors?</p>
             <div class="jeb-home--bookBtns">
               <a href="https://www.amazon.com/Saturday-Morning-Horrors-Heyword-Hippo/dp/B0F914D3RK/" target="_blank" rel="noopener noreferrer" class="jeb-btn-dark">Buy on Amazon</a>
               <RouterLink to="/store" class="jeb-btn-primary">Signed Copy</RouterLink>
@@ -121,7 +121,7 @@ import { RouterLink } from 'vue-router';
       <div class="jeb-home--engageCard jeb-home--engageSchool">
         <p class="jeb-sectionTitle">FOR EDUCATORS</p>
         <h3>Bring Jared to Your School</h3>
-        <p>Story structure, comedy, writing — delivered to your students in a fun, interactive author visit. Great for grades 3–8.</p>
+        <p>Story structure, comedy, writing, educational games, and a love for reading, delivered to students in a fun and interactive author visit. Great for students grades 3-8.</p>
         <RouterLink to="/schoolvisits" class="jeb-btn-primary" style="margin-top:1.5rem;">Request a Visit</RouterLink>
       </div>
       <div class="jeb-home--engageCard jeb-home--engageNewsletter">

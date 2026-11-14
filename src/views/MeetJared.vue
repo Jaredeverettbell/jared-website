@@ -8,7 +8,7 @@
         <h1 class="jeb-meet--headerTitle"><span class="jeb-meet--headerMeet">Meet</span>Jared Everett Bell</h1>
         <img class="jeb-meet--headerPhoto" src="../assets/author.jpg" alt="Jared Everett Bell" />
         <p class="jeb-meet--headerBio">
-          Jared Everett Bell writes action-packed, funny, and heartfelt books for middle-grade readers —
+          Jared Everett Bell writes action-packed, funny, and heartfelt books for middle-grade readers,
           books that parents will enjoy reading alongside their kids.
           Jared loves comedy, cartoons, board games, game shows, and sandwiches.
           He lives in Issaquah, Washington, close to his large family.
@@ -32,7 +32,7 @@
             </div>
             <span class="jeb-meet--dot" aria-hidden="true"></span>
             <p>
-            The first half of Jared's life was spent in Spokane, Washington — the inspiration for
+            The first half of Jared's life was spent in Spokane, Washington, the inspiration for
             Kanespo in the Saturday Morning series. He is the middle child, number four of six.
             His first experience with comedy was watching a live family-friendly improv show at the
             age of four. He laughed so hard it made the comedians break.
@@ -46,7 +46,7 @@
             <span class="jeb-meet--dot" aria-hidden="true"></span>
             <p>
             During his early teens and high school, Jared became a stage performer at the local
-            community theater and high school productions — including the sketch comedy class
+            community theater and high school productions, including the sketch comedy class
             <em>Wednesday Morning Live</em>.
           </p>
           </div>

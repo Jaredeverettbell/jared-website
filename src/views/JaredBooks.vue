@@ -9,7 +9,7 @@
     <header class="jeb-books--header">
       <p class="jeb-sectionTitle">THE SATURDAY MORNING SERIES</p>
       <h1 class="jeb-books--headerTitle">Books by Jared Everett Bell</h1>
-      <p class="jeb-books--headerSub">Adventure, comedy, and heart — for middle-grade readers and the grown-ups who read with them.</p>
+      <p class="jeb-books--headerSub">Adventure, comedy, and heart. A book series for middle-grade readers, and great nostalgia for grown-ups who read with them.</p>
     </header>
 
     <main class="jeb-books--main jeb-watermark">
@@ -43,7 +43,7 @@
           <p class="jeb-sectionTitle">BOOK TWO</p>
           <h2>Saturday Morning:<br/>Horrors of Heyword the Hippo</h2>
           <p class="jeb-books--desc">
-            The Saturday Morning crew is back — and this time a terrifying cartoon hippo is on the loose. Max and his friends must face the Horrors of Heyword before it's too late. Can they stop the chaos before the whole town is turned upside down?
+            Max loves to sneak downstairs in the dark of early Saturday mornings to enjoy the cartoon he loved watching as a toddler called Heyword the Hippo. But his fun is quickly interrupted when his older brother, Miles, catches him in the act. Teasing ensues. But there's one problem, the real Heyword witnessed everything from the shadows and vowed to protect his new best friend from Miles. Can Max protect his brother from Heyword, the lyrical wizard? How will Max and Roartag capture the singing and dancing hippo? Find out in Saturday Morning: Horrors of Heyword the Hippo.
           </p>
           <p class="jeb-books--meta">Grades 3–7 · Ages 8–12 · Adventure / Comedy</p>
           <div class="jeb-books--btns">

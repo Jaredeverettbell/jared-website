@@ -50,7 +50,7 @@ function stageClass(bookActiveStage: number, stageIdx: number) {
     <header class="jeb-extras--header">
       <p class="jeb-sectionTitle">BEHIND THE SCENES</p>
       <h1 class="jeb-extras--headerTitle">Extras</h1>
-      <p class="jeb-extras--headerSub">Behind-the-scenes updates, book progress, and Jared's favorite things.</p>
+      <p class="jeb-extras--headerSub">Book progress, behind-the-scenes, Jared's Favorites, and tour dates.</p>
     </header>
 
     <div class="jeb-extras--body jeb-watermark">
