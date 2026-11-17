@@ -92,7 +92,7 @@ const testimonials = [
 
     <!-- Full-bleed hero -->
     <section class="jeb-educator--hero">
-      <img class="jeb-educator--heroBg" src="../assets/school-visit-gym-hero.jpg" alt="Jared presenting to a packed gymnasium of students" />
+      <img class="jeb-educator--heroBg" src="../assets/school-visit-packed-gym.jpg" alt="Jared presenting to a packed gymnasium of students with Jared Everett Bell Author on the projector" />
       <div class="jeb-educator--heroOverlay"></div>
       <div class="jeb-educator--heroContent">
         <p class="jeb-sectionTitle">FOR EDUCATORS</p>
@@ -256,8 +256,9 @@ const testimonials = [
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: 50% 28%;
+  object-fit: contain;
+  object-position: center center;
+  background: #000;
 }
 
 .jeb-educator--heroOverlay {
