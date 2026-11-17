@@ -92,7 +92,7 @@ const testimonials = [
 
     <!-- Full-bleed hero -->
     <section class="jeb-educator--hero">
-      <img class="jeb-educator--heroBg" src="../assets/school-visit-lydia-hawk.jpg" alt="Jared presenting to students at Lydia Hawk Elementary" />
+      <img class="jeb-educator--heroBg" src="../assets/school-visit-gym-hero.jpg" alt="Jared presenting to a packed gymnasium of students" />
       <div class="jeb-educator--heroOverlay"></div>
       <div class="jeb-educator--heroContent">
         <p class="jeb-sectionTitle">FOR EDUCATORS</p>
@@ -140,25 +140,25 @@ const testimonials = [
             <ul class="jeb-educator--expectList">
               <li>
                 <span class="jeb-educator--check">✓</span>
-                <p><strong>For Elementary grades 4, 5, and 6</strong>, Jared teaches the students about Story Elements on the Road to Mount Story.</p>
+                <p><strong>For Elementary grades 3–5</strong>, Jared teaches students about Story Elements on the Road to Mount Story, which supports narrative-writing standards (structure, character, revision).</p>
               </li>
               <li>
                 <span class="jeb-educator--check">✓</span>
-                <p><strong>For Middle School grades 7 and 8</strong>, he teaches the students five advanced writing tips to improve their creative writing skills and story structure.</p>
+                <p><strong>For Middle School grades 6–8</strong>, he teaches students five advanced writing tips to improve their creative writing skills and story structure.</p>
               </li>
               <li>
                 <span class="jeb-educator--check">✓</span>
-                <p>Jared utilizes his robust comedy and story writing education and work experience in every presentation, including <strong>a mini game show with prizes</strong>.</p>
+                <p>As a former <strong>Nickelodeon/FX/Hulu production team member</strong> and UCB-trained comedian, Jared uses his experience in every presentation, including <strong>a mini game show with prizes</strong>.</p>
               </li>
               <li>
                 <span class="jeb-educator--check">✓</span>
-                <p><strong>Jared will sell and sign personalized copies!</strong> Arrangements can be made for students to pre-order the book with payment by parents through Venmo or Cash.</p>
+                <p><strong>Jared will sell and sign personalized copies!</strong> Arrangements can be made for students to pre-order the book with payment by parents through his website.</p>
               </li>
             </ul>
           </div>
           <div class="jeb-educator--expectPhotos">
             <img src="../assets/school-visit-assembly.jpg" alt="Students raising hands during Jared's assembly" class="jeb-educator--expectPhoto jeb-educator--expectPhotoMain" />
-            <img src="../assets/school-visit-classroom.jpg" alt="Jared teaching the Road to Mount Story lesson" class="jeb-educator--expectPhoto" />
+            <img src="../assets/school-visit-makerspace.jpg" alt="Students writing at tables during Jared's Story Go Round Game activity" class="jeb-educator--expectPhoto" />
             <img src="../assets/school-visit-salish.jpg" alt="Students lining up to meet Jared at Salish Middle School" class="jeb-educator--expectPhoto" />
           </div>
         </div>
